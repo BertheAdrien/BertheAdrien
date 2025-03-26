@@ -2,7 +2,7 @@
 🎓 Étudiant en **BTS SIO (Services Informatiques aux Organisations) - 2ᵉ année**  <br>💻 Passionné par le développement web & les nouvelles techs<br>🚀 En quête de nouvelles expériences et de projets à explorer
 
 
-## 🌐 Socials:
+## 🌐 Me contacter:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adrien-berthe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berthe.adrien@yahoo.fr) 
 
 # 💻 Compétences techniques:
